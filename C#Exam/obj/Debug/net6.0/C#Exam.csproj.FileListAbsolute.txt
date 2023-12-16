@@ -1,0 +1,15 @@
+G:\OOP\C#ExamSolution\C#Exam\bin\Debug\net6.0\C#Exam.exe
+G:\OOP\C#ExamSolution\C#Exam\bin\Debug\net6.0\C#Exam.deps.json
+G:\OOP\C#ExamSolution\C#Exam\bin\Debug\net6.0\C#Exam.runtimeconfig.json
+G:\OOP\C#ExamSolution\C#Exam\bin\Debug\net6.0\C#Exam.dll
+G:\OOP\C#ExamSolution\C#Exam\bin\Debug\net6.0\C#Exam.pdb
+G:\OOP\C#ExamSolution\C#Exam\obj\Debug\net6.0\C#Exam.csproj.AssemblyReference.cache
+G:\OOP\C#ExamSolution\C#Exam\obj\Debug\net6.0\C#Exam.GeneratedMSBuildEditorConfig.editorconfig
+G:\OOP\C#ExamSolution\C#Exam\obj\Debug\net6.0\C#Exam.AssemblyInfoInputs.cache
+G:\OOP\C#ExamSolution\C#Exam\obj\Debug\net6.0\C#Exam.AssemblyInfo.cs
+G:\OOP\C#ExamSolution\C#Exam\obj\Debug\net6.0\C#Exam.csproj.CoreCompileInputs.cache
+G:\OOP\C#ExamSolution\C#Exam\obj\Debug\net6.0\C#Exam.dll
+G:\OOP\C#ExamSolution\C#Exam\obj\Debug\net6.0\refint\C#Exam.dll
+G:\OOP\C#ExamSolution\C#Exam\obj\Debug\net6.0\C#Exam.pdb
+G:\OOP\C#ExamSolution\C#Exam\obj\Debug\net6.0\C#Exam.genruntimeconfig.cache
+G:\OOP\C#ExamSolution\C#Exam\obj\Debug\net6.0\ref\C#Exam.dll
